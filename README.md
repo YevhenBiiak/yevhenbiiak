@@ -3,16 +3,13 @@
 ### My name is Yevgeny and I'm an iOS developer
 
 * 📱  I have 11 months of practical experience in iOS development  
-
 * 👀  I'm looking for my first job opportunity  
-
 * 💻  You can see my portfolio below
+* 📫  Reach me: yevhen.biiak@icloud.com
+<br>
 
 * 🚀  I love technology that makes life easier and more efficient
-
-* 🔥  Best animation I’ve ever seen <a href="https://user-images.githubusercontent.com/80542175/227705791-33b9dc68-0e3c-454e-ad68-970ade743da2.gif">animation.gif</a> <a href="https://user-images.githubusercontent.com/80542175/227705791-33b9dc68-0e3c-454e-ad68-970ade743da2.gif"><img width=20 src="https://user-images.githubusercontent.com/80542175/227706079-620f3b7f-e498-4100-8f40-7ae1c97d5152.gif"></a>
-
-* 📫  Reach me: yevhen.biiak@icloud.com
+* 🧠  I'm currently learning Objective-C
 
 <details><summary><h3>My technical skills</h3></summary>
   
@@ -34,6 +31,7 @@
   #### Tools and Technologies
   
   - Xcode, Instruments, Simulator, OpenSim
+  - Sketch
   - Git (GitHub)
   - Regular Expressions
   - UML (class diagram)
@@ -94,7 +92,12 @@
 
 </details>
 
-### My Portfolio
+
+<div align="center">
+  <h1>My Portfolio</h1>
+</div>
+Projects: 〈 1 · 2 · 3 〉of 9
+
 *************************************************************************************************************************************
 
 <div align="center">
