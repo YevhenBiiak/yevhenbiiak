@@ -2,7 +2,7 @@
 
 ### My name is Yevgeny and I'm an iOS developer
 
-* 📱  I have 11 months of practical experience in iOS development  
+* 📱  I have 1 year of practical experience in iOS development  
 * 👀  I'm looking for my first job opportunity  
 * 💻  You can see my portfolio below
 * 📫  Reach me: yevhen.biiak@icloud.com
@@ -58,7 +58,9 @@
   - `Network`
   - `Alamofire`
   - `URLSession`
+  - `Apollo-iOS`
   - REST API
+  - GraphQL
   - Codable
   - JSON
 
