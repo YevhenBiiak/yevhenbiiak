@@ -98,7 +98,7 @@
 <div align="center">
   <h1>My Portfolio</h1>
 </div>
-Projects: 〈 1 · 2 · 3 〉of 9
+Projects: 〈 1 · 2 · 3 〉of 10
 
 *************************************************************************************************************************************
 
@@ -131,6 +131,35 @@ Read more: <a href="https://github.com/YevhenBiiak/07-RayBan-Store">07-RayBan-St
 *************************************************************************************************************************************
 
 <div align="center">
+  <h3>SpaceX</h3>
+</div>
+<br>
+
+<p align="center" width="100%">
+  <img width=23% src="https://user-images.githubusercontent.com/80542175/233062280-f558bdd1-b501-4ed0-846a-5463d8abf593.PNG">
+  <img width=23% src="https://user-images.githubusercontent.com/80542175/233062287-68a15146-22d2-415e-9871-5f09c4e26521.PNG">
+  <img width=23% src="https://user-images.githubusercontent.com/80542175/233062294-5d7fc0fb-f78f-4446-af50-e6b6fb9f0c8f.PNG">
+  <img width=23% src="https://user-images.githubusercontent.com/80542175/233062295-f4e50631-fd67-42df-aeec-3a85ca9fa0f8.PNG">
+</p>
+
+#### Description:  
+* The SpaceX app is an iOS application that provides information about SpaceX rockets and launches 
+
+#### Project Goals:  
+- Develop the application using the Clean Swift architecture
+- Learn GraphQL and `Apollo-iOS` framework
+- Work with `SceneKit` and 3D models
+
+#### Used technologies and frameworks:  
+
+- `Swift`, `Xcode 14`, `iOS 13.0`, `Storyboard`, `Clean Swift`, `GraphQL`, `Blender`
+- `UIKit`, `Apollo-iOS`, `SceneKit`, `URLSession`, `CoreGraphics`
+
+Read more: <a href="https://github.com/YevhenBiiak/SpaceX">SpaceX</a> (repo)
+
+*************************************************************************************************************************************
+
+<div align="center">
   <h3>10-Food</h3>
 </div>
 <br>
@@ -155,6 +184,10 @@ Read more: <a href="https://github.com/YevhenBiiak/10-Food">10-Food</a> (repo)
 
 *************************************************************************************************************************************
 
+<details><summary><h3>Show more projects: 〈 4 · 5 · 6 〉of 10</h3></summary>
+  
+*************************************************************************************************************************************
+
 <div align="center">
   <h3>Planner App</h3>
 </div>
@@ -176,10 +209,6 @@ Read more: <a href="https://github.com/YevhenBiiak/10-Food">10-Food</a> (repo)
 * `SwiftUI`, `Combine`, `Foundation`
 
 Read more: <a href="https://github.com/YevhenBiiak/SwiftUI">Planner App</a> (repo)
-  
-*************************************************************************************************************************************
-
-<details><summary><h3>Show more projects: 〈 4 · 5 · 6 〉of 9</h3></summary>
   
 *************************************************************************************************************************************
   
@@ -242,6 +271,10 @@ Read more: <a href="https://github.com/YevhenBiiak/Design-Patterns">Design-Patte
 Read more: <a href="https://github.com/YevhenBiiak/Architecture-Patterns">Architecture-Patterns</a> (repo)
   
 *************************************************************************************************************************************
+
+<details><summary><h3>Show more projects: 〈 7 · 8 · 9 〉of 10</h3></summary>
+  
+*************************************************************************************************************************************
   
 <div align="center">
   <h3>Core-Animation</h3>
@@ -264,10 +297,6 @@ Read more: <a href="https://github.com/YevhenBiiak/Architecture-Patterns">Archit
 
 Read more: <a href="https://github.com/YevhenBiiak/Core-Animation">Core-Animation</a> (repo)
 
-*************************************************************************************************************************************
-
-<details><summary><h3>Show more projects: 〈 7 · 8 · 9 〉of 9</h3></summary>
-  
 *************************************************************************************************************************************
   
 <div align="center">
@@ -319,6 +348,10 @@ Read more: <a href="https://github.com/YevhenBiiak/To-Do-Manager">To-Do-Manager<
   
 *************************************************************************************************************************************
 
+<details><summary><h3>Show more projects: 〈 10 〉of 10</h3></summary>
+  
+*************************************************************************************************************************************
+
 <div align="center">
   <h3>CoreDataDemo</h3>
 </div>
@@ -345,5 +378,6 @@ Read more: <a href="https://github.com/YevhenBiiak/To-Do-Manager">To-Do-Manager<
   
 Read more: <a href="https://github.com/YevhenBiiak/CoreDataDemo">CoreDataDemo</a> (repo)
 
+</details>
 </details>
 </details>
